@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">latihanlima</string>
+    <string name="uname">nama identitas</string>
+    <string name="pass">kata sandi</string>
+    <string name="log">masuk</string>
+    <string name="sign_text">mendaftar</string>
+    <string name="name_text">nama</string>
+    <string name="pass_rep">ulangi kata sandi</string>
+    <string name="reg">daftar</string>
+    <string name="hello">Halo, Selamat Datang</string>
+</resources>

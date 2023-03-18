@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="text_input">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColorHint">@color/purple_200</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingBottom">10dp</item>
+    </style>
+
+    <style name="text_button">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColorHint">@color/white</item>
+    </style>
+
+</resources>

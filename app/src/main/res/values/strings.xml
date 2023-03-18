@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">material design</string>
+    <string name="uname">username</string>
+    <string name="pass">password</string>
+    <string name="log">login</string>
+    <string name="sign_text">signup</string>
+    <string name="name_text">name</string>
+    <string name="pass_rep">repeat password</string>
+    <string name="reg">register</string>
+    <string name="hello">Hello, Welcome</string>
+</resources>
